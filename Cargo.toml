@@ -1,0 +1,12 @@
+[package]
+name = "publish-rust-crates-github-actions"
+version = "0.1.0"
+edition = "2021"
+authors = ["Pratik Chowdhury pratikc@live.co.uk"]
+description = "Test Project for https://pratikpc.medium.com/publishing-crates-using-github-actions-165ee67780e1"
+readme = "README.md"
+repository = "https://github.com/pratikpc/publish-rust-crates-github-actions"
+license = "MIT"
+homepage = "https://github.com/pratikpc/publish-rust-crates-github-actions#readme"
+
+[dependencies]
